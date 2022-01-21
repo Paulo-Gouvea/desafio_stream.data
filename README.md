@@ -1,10 +1,8 @@
 # desafio_stream.data
 
-
-
-# Demonstração do projeto
-
-
+![splash](https://user-images.githubusercontent.com/76439397/150578525-d464b4e0-a45d-4168-b185-1ee3bbbcd278.jpg)
+![image-1](https://user-images.githubusercontent.com/76439397/150578496-43a62919-7ed0-451b-9756-e7a09b7b5695.jpg)
+![image-2](https://user-images.githubusercontent.com/76439397/150578516-500d1b8c-1dad-417d-898b-daf4d2d17106.jpg)
 
 # Projeto
 
@@ -29,6 +27,6 @@ Aplicativo utilizado na trilha de React Native do bootcamp Ignite da Rocketseat 
 
 # Executando o projeto
 
-Após conseguir o projeto execute ou o comando yarn ou o comando npm install dentro do projeto.
-Agora é necessário ir para o site https://dev.twitch.tv/ e obter uma chave para utilizar na API do aplicativo. Após obter vá no arquivo .env.example, coloque a sua chave lá e mude o nome do arquivo de ".env.example" para ".env". Caso tenha problemas com a parte da chave é recomendável checar as documentações da Twitch para mais detalhes.
-Após isso execute o comando expo start para executar o aplicativo.
+- Após conseguir o projeto execute ou o comando yarn ou o comando npm install dentro do projeto;
+- Agora é necessário ir para o site https://dev.twitch.tv/ e obter uma chave para utilizar na API do aplicativo. Após obter vá no arquivo .env.example, coloque a sua chave lá e mude o nome do arquivo de ".env.example" para ".env". Caso tenha problemas com a parte da chave é recomendável checar as documentações da Twitch para mais detalhes;
+- Após isso execute o comando expo start para executar o aplicativo;
